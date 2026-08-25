@@ -1,0 +1,5 @@
+
+aws_region    = "ap-southeast-1"
+ami_id        = "ami-xxxxxxxxxxxxxxxxx"
+instance_type = "t2.micro"
+instance_name = "My-Terraform-Server"
